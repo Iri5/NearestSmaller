@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\obj\Debug\theNearestSmaller.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\obj\Debug\theNearestSmaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\obj\Debug\theNearestSmaller.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\bin\Debug\theNearestSmaller.exe.config
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\bin\Debug\theNearestSmaller.exe
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\bin\Debug\theNearestSmaller.pdb
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\obj\Debug\theNearestSmaller.exe
+C:\Users\Пользователь\Desktop\практика\ближайшее меньшее C#\theNearestSmaller\theNearestSmaller\obj\Debug\theNearestSmaller.pdb
